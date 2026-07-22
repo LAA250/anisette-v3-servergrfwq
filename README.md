@@ -27,6 +27,10 @@ Setup your inventory and choose your desired host in the playbook. Tweak your pa
 ```bash
 ansible-playbook -i inventory setup-anisette-v3-ansible.yaml -k
 ```
+
+
+以下是中文机翻
+
 Anisette-v3-服务器
 
 所谓的omnisette-server的更轻的替代品
